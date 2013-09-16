@@ -35,7 +35,7 @@ from PyQt4.QtCore import QDir
 from ninja_ide import resources
 from ninja_ide.core.file_handling import file_manager
 from ninja_ide.core import settings
-from ninja_ide.gui import translations
+from ninja_ide import translations
 from ninja_ide.gui import dynamic_splitter
 from ninja_ide.gui.ide import IDE
 from ninja_ide.gui.main_panel import tab_widget
